@@ -2,11 +2,11 @@
 
 Create a console application "Calculator" in the java language.
 
- **Description:<br>
+ **Description:**<br>
  
 Create a "Calculator" console application. The application must read arithmetic operations entered by the user from the console and output the result to the console.
 
-**Requirements:<br>
+**Requirements:**<br>
 
 The calculator can perform addition, subtraction, multiplication and division operations with two numbers: a + b, a - b, a * b, a / b. Data is transmitted in one line (see example)! Solutions in which each number and arithmetic operation is passed on a new line are considered incorrect.
 The calculator can handle both Arabic (1,2,3,4,5...) and Roman (I,II,III,IV,V...) numbers.
