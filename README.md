@@ -23,37 +23,31 @@ The result of the calculator with arabic numbers can be negative numbers and zer
 
 Input:
 1 + 2
-
 Output:
 3
 
 Input:
 VI / III
-
 Output:
 II
 
 Input:
 I - II
-
 Output:
 throws Exception //because there are no negative numbers in the Roman system
 
 Input:
 I + 1
-
 Output:
 throws Exception //because different number systems are used simultaneously
 
 Input:
 1
-
 Output:
 throws Exception //because the string is not a mathematical operation
 
 Input:
 1 + 2 + 3
-
 Output:
 throws Exception //because the format of the mathematical operation does not satisfy the task - two operands and one operator (+, -, /, *)
 
