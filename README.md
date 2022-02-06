@@ -22,34 +22,34 @@ The result of the calculator with arabic numbers can be negative numbers and zer
 **An example of how a program works:**<br>
 
 Input:
-1 + 2
+1 + 2<br>
 Output:
-3
+3<br>
 
 Input:
-VI / III
+VI / III<br>
 Output:
-II
+II<br>
 
 Input:
-I - II
+I - II<br>
 Output:
-throws Exception //because there are no negative numbers in the Roman system
+throws Exception //because there are no negative numbers in the Roman system<br>
 
 Input:
-I + 1
+I + 1<br>
 Output:
-throws Exception //because different number systems are used simultaneously
+throws Exception //because different number systems are used simultaneously<br>
 
 Input:
-1
+1<br>
 Output:
-throws Exception //because the string is not a mathematical operation
+throws Exception //because the string is not a mathematical operation<br>
 
 Input:
-1 + 2 + 3
+1 + 2 + 3<br>
 Output:
-throws Exception //because the format of the mathematical operation does not satisfy the task - two operands and one operator (+, -, /, *)
+throws Exception //because the format of the mathematical operation does not satisfy the task - two operands and one operator (+, -, /, *)<br>
 
 
 
