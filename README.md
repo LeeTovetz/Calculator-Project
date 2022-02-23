@@ -1,4 +1,4 @@
-# JavaMentor-Calculator-Test
+# Calculator
 
 Create a console application "Calculator" in the java language.
 
