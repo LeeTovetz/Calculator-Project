@@ -50,4 +50,3 @@ Input:
 1 + 2 + 3<br>
 Output:
 throws Exception //because the format of the mathematical operation does not satisfy the task - two operands and one operator (+, -, /, *)<br>
-
